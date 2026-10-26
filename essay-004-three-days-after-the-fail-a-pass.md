@@ -67,6 +67,6 @@ The FAIL stays where it is; the red zones are not erased. The green of the new c
 
 ---
 
-*Evidence chain: protocol, addenda & scripts — github.com/effiq/pilot004 ｜ all raw logs — github.com/effiq/pilot-logs ｜ verdict: VERDICT.md ｜ reproduction: REPRODUCE.md ｜ previous essay: After the 2.33×, we published our own FAIL*
+*Evidence chain: protocol, addenda & scripts — github.com/effiq/pilot004 ｜ raw evidence — sha256 custody, available on request for audit ｜ verdict: VERDICT.md ｜ reproduction: REPRODUCE.md ｜ previous essay: After the 2.33×, we published our own FAIL*
 
 *中文版本：《FAIL 挂出三天后，我们发布了 PASS》*

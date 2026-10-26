@@ -50,6 +50,6 @@ FAIL 入册不等于停止提问。我们做了两层追查，第一层是事后
 
 ---
 
-*证据链：协议与脚本 github.com/effiq/pilot002 ｜ 全部原始日志 github.com/effiq/pilot-logs ｜ 判决书 VERDICT.md（含追问一附录结局）｜ 复算指南 REPRODUCE.md ｜ 上一篇：你的量化加速为什么在你的负载上不成立*
+*证据链：协议与脚本 github.com/effiq/pilot002 ｜ 原始证据 sha256 托管，应审计要求提供 ｜ 判决书 VERDICT.md（含追问一附录结局）｜ 复算指南 REPRODUCE.md ｜ 上一篇：你的量化加速为什么在你的负载上不成立*
 
 *English version: "We replayed real production traffic at FP8: the 2.33× held — 'no measurable quality loss' didn't"*

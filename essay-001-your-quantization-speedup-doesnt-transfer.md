@@ -46,6 +46,6 @@ That is the whole claim: optimization is the product; measurement is the moat. W
 
 ---
 
-*Evidence chain: protocol & scripts — github.com/effiq/pilot001 ｜ all raw logs — github.com/effiq/pilot-logs ｜ verdict: VERDICT.md ｜ reproduction: REPRODUCE.md*
+*Evidence chain: protocol & scripts — github.com/effiq/pilot001 ｜ raw evidence — sha256 custody, available on request for audit ｜ verdict: VERDICT.md ｜ reproduction: REPRODUCE.md*
 
 *中文版本：《你的量化加速为什么在你的负载上不成立》*

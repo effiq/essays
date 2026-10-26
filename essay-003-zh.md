@@ -70,6 +70,6 @@ FAIL 封死的是一句广告语，不是产品。按预注册的丙种路线，
 
 ---
 
-*证据链：协议、附录与脚本 github.com/effiq/pilot003 ｜ 全部原始日志 github.com/effiq/pilot-logs ｜ 判决书 VERDICT.md ｜ 复算指南 REPRODUCE.md ｜ 上一篇：把真实流量回放给 FP8：2.33× 活下来了，"质量无损"这次没能证明*
+*证据链：协议、附录与脚本 github.com/effiq/pilot003 ｜ 原始证据 sha256 托管，应审计要求提供 ｜ 判决书 VERDICT.md ｜ 复算指南 REPRODUCE.md ｜ 上一篇：把真实流量回放给 FP8：2.33× 活下来了，"质量无损"这次没能证明*
 
 *English version: After the 2.33×, we published our own FAIL*

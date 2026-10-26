@@ -67,6 +67,6 @@ FAIL 还在原地挂着，红区不擦。新格的绿，是踩着旧格的红画
 
 ---
 
-*证据链：协议、增补与脚本 github.com/effiq/pilot004 ｜ 全部原始日志 github.com/effiq/pilot-logs ｜ 判决书 VERDICT.md ｜ 复算指南 REPRODUCE.md ｜ 上一篇：2.33× 之后，我们公开了自己的 FAIL*
+*证据链：协议、增补与脚本 github.com/effiq/pilot004 ｜ 原始证据 sha256 托管，应审计要求提供 ｜ 判决书 VERDICT.md ｜ 复算指南 REPRODUCE.md ｜ 上一篇：2.33× 之后，我们公开了自己的 FAIL*
 
 *English version: Three days after the FAIL, we published a PASS*

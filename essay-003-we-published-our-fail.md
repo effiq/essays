@@ -70,6 +70,6 @@ We also rehearsed the most disappointing path: if this FAIL is followed by one m
 
 ---
 
-*Evidence chain: protocol, addenda & scripts — github.com/effiq/pilot003 ｜ all raw logs — github.com/effiq/pilot-logs ｜ verdict: VERDICT.md ｜ reproduction: REPRODUCE.md ｜ previous essay: We replayed real production traffic at FP8: the 2.33× held — "no measurable quality loss" didn't*
+*Evidence chain: protocol, addenda & scripts — github.com/effiq/pilot003 ｜ raw evidence — sha256 custody, available on request for audit ｜ verdict: VERDICT.md ｜ reproduction: REPRODUCE.md ｜ previous essay: We replayed real production traffic at FP8: the 2.33× held — "no measurable quality loss" didn't*
 
 *中文版本：《2.33× 之后，我们公开了自己的 FAIL》*

@@ -50,6 +50,6 @@ Optimization is the product; measurement is the moat. An envelope map is worth m
 
 ---
 
-*Evidence chain: protocol & scripts — github.com/effiq/pilot002 ｜ all raw logs — github.com/effiq/pilot-logs ｜ verdict: VERDICT.md (incl. the addendum outcome) ｜ reproduction: REPRODUCE.md ｜ previous essay: Your quantization speedup doesn't transfer to your workload*
+*Evidence chain: protocol & scripts — github.com/effiq/pilot002 ｜ raw evidence — sha256 custody, available on request for audit ｜ verdict: VERDICT.md (incl. the addendum outcome) ｜ reproduction: REPRODUCE.md ｜ previous essay: Your quantization speedup doesn't transfer to your workload*
 
 *中文版本：《把真实流量回放给 FP8：2.33× 活下来了，"质量无损"这次没能证明》*

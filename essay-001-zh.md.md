@@ -46,4 +46,4 @@ Pilot 001 的结论只在一个明确声明的小世界里为真：一张 L40S�
 
 ---
 
-*证据链：协议与脚本 github.com/effiq/pilot001 ｜ 全部原始日志 github.com/effiq/pilot-logs ｜ 判决书 VERDICT.md ｜ 复算指南 REPRODUCE.md*
+*证据链：协议与脚本 github.com/effiq/pilot001 ｜ 原始证据 sha256 托管，应审计要求提供 ｜ 判决书 VERDICT.md ｜ 复算指南 REPRODUCE.md*
